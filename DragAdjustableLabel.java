@@ -25,7 +25,6 @@ import javafx.stage.Screen;
 *     
 *     //add it for example to a BorderPane
 *     primaryStage.setScene(new Scene(new BorderPane(dragAdjustableLabel)));
- * }
  *</code>
  * </pre>
  * 

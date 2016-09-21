@@ -9,7 +9,7 @@ import javafx.scene.control.Label;
 import javafx.stage.Screen;
 
 /**
- * A Costume Node which is working like a Slider. <br>
+ * A custom Node which is working like a Slider. <br>
  * <b>!</b> When you hold the mouse on it and drag upside the value is
  * increased. <br>
  * <b>!</b> When you hold the mouse on it and drag down side the value is

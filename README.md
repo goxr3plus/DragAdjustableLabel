@@ -12,14 +12,16 @@
 ##Example Code
  
   <code>
-     //initialize
-     DragAdjustableLabel dragAdjustableLabel = new DragAdjustableLabel(10, 0, 100);
+       //initialize
+       DragAdjustableLabel dragAdjustableLabel = new DragAdjustableLabel(10, 0, 100);
      
-     //add it for example to a BorderPane
-     primaryStage.setScene(new Scene(new BorderPane(dragAdjustableLabel)));
+       //add it for example to a BorderPane
+        primaryStage.setScene(new Scene(new BorderPane(dragAdjustableLabel)));
+        
+       @author GOXR3PLUS
+       @version 1.0
  </code>
   
-  @author GOXR3PLUS
-  @version 1.0
+ 
  
 

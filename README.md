@@ -1,5 +1,6 @@
 # DragAdjustableLabel
 
+
 /**
  * A Costume Node which is working like a Slider. <br>
  * <b>!</b> When you hold the mouse on it and drag upside the value is
@@ -7,6 +8,12 @@
  * <b>!</b> When you hold the mouse on it and drag down side the value is
  * decreased.
  * 
+ 
+##Image
+![Demostration of XR3Capture](http://i.stack.imgur.com/zPbL0.png)
+
+ 
+##Example Code
  * <br>
  * Usage:
  * 

@@ -116,7 +116,7 @@ public class DragAdjustableLabel extends Label {
 	}
 
 	/**
-	 * Setting the Current Value of VolumeLabel
+	 * Set the current value
 	 * 
 	 * @param value
 	 */

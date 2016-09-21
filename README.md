@@ -19,8 +19,7 @@
        
         primaryStage.setScene(new Scene(new BorderPane(dragAdjustableLabel)));
         
-       @author GOXR3PLUS
-       @version 1.0
+       
   
  
  

@@ -8,7 +8,7 @@
 ##Image
 ![Demostration of XR3Capture](http://i.stack.imgur.com/zPbL0.png)
 
- 
+  
 ##Example Code
  
        //initialize
